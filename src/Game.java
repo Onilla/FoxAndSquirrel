@@ -1,8 +1,4 @@
-import java.io.File;
-import java.io.IOException;
-import java.util.Formatter;
 
-/*Receiver class*/
 public class Game {
 
     static void startGame() {

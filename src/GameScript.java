@@ -45,38 +45,8 @@ public class GameScript {
 
     }
 
-
     public static String getCurrentParagraph() {
         return currentParagraph;
     }
 
-
 }
-
-//        while (true) {
-//                Menu.displayMenu();
-//
-//            switch (choice) {
-//        case 1:
-//        gamer.start();
-//
-//                    while (true) {
-//                            Menu.shortDisplayMenu();
-//int innerChoice = scanner.nextInt();
-//                        if (innerChoice == 1) {
-//        gamer.save();
-//                        } else if (innerChoice == 2) {
-//        break;
-//        }
-//        }
-//        break;
-//        case 2:
-//        gamer.load();
-//                    break;
-//                            case 3:
-//                            gamer.exit();
-//                    break;
-//default:
-//        System.out.println("Некорректный выбор, попробуйте снова.");
-//            }
-//
